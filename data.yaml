@@ -1,0 +1,8 @@
+path: E:\文件\数据集\隧道空洞渗水
+train: images/train
+val: images/val
+
+nc: 2
+names:
+  0: kongdong
+  1: shenshui
